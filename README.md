@@ -1,2 +1,2 @@
-# Nova phone
+# Novák phone
 
